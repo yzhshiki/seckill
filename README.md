@@ -1,0 +1,7 @@
+- Windows 10
+- JDK 8
+- Springboot 1.5.7
+- Tomcat 7
+- Mysql 8
+- RabbitMQ 3.7.15
+- redis 3.2.0
